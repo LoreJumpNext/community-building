@@ -121,7 +121,7 @@ LIB通过git管理，支持通常的git特性，能够带来更方便的版本�
 
 作为目录和简介  指向其他相关信息
 
-- 社区使用介绍 
+- 社区使用介绍 [链接](https://loregit.com/LoreGit/guide)
 - 中文学术开源指南
 - 社区特性与准则 [链接](./LoreGit社区特性及准则.md)
 - LoreGit愿景及FQA  [链接](./愿景&FQA.md)

@@ -18,7 +18,9 @@ LoreGit是一个刚刚发起的开源社区
 
 **迭代**  反馈带来了更多潜在可修改的地方，这是LIB的所有者或者所有关注LIB的人都可以提出新的修改作为PR。当PR被接受，LIB就完成了更新。在逐步的更新中LIB会变得越来越棒~
 
+![基本插图](https://loregit.com/LoreGit/introduction/raw/commit/871d905531245f1d466aeb1f75e55e585bf51377/%e6%8f%92%e5%9b%be%e7%ad%89%e9%99%84%e4%bb%b6/LIB%e8%bf%ad%e4%bb%a3%e7%ae%80%e4%bb%8b.png)
 
+![基本插图](./插图等附件/LIB迭代简介.png)
 
 正反馈循环
 

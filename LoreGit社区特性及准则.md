@@ -11,15 +11,9 @@
 ## 特性
 
 - 开源   只表述结论是单薄的，一手数据、论证结构更加重要
-- Open source only expressing the conclusion is thin, first-hand data and argument structure are more important
 - 协作   协同起来，相互帮助，集合更多方案与信息，沉淀讨论的价值
-- Cooperation Collaborate, help each other, gather more plans and information, and accumulate the value of discussion
 - 探索   突破已知的围城，交换攻略和经验，更深度地探索世界
-- Explore Break through known siege, exchange strategies and experiences, and explore the world more deeply
 - 极致   以完全的答案为目标，寻求更完备的知识与更先进的技术，永无止境
-- Extreme Aiming at complete answers, seeking more complete knowledge and more advanced technology, never ending
-
-
 
 
 
@@ -54,4 +48,3 @@
 
 
 **希望你能喜欢，起初可能有点复杂，但旅程会很有趣**
-
